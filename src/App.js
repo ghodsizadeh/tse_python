@@ -1,6 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// @flow
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
