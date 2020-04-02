@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/tse_python/static/css/main.5f361e03.chunk.css",
-    "main.js": "/tse_python/static/js/main.a4dcfccb.chunk.js",
-    "main.js.map": "/tse_python/static/js/main.a4dcfccb.chunk.js.map",
+    "main.js": "/tse_python/static/js/main.f73882b7.chunk.js",
+    "main.js.map": "/tse_python/static/js/main.f73882b7.chunk.js.map",
     "runtime-main.js": "/tse_python/static/js/runtime-main.8196a12b.js",
     "runtime-main.js.map": "/tse_python/static/js/runtime-main.8196a12b.js.map",
-    "static/js/2.78db974e.chunk.js": "/tse_python/static/js/2.78db974e.chunk.js",
-    "static/js/2.78db974e.chunk.js.map": "/tse_python/static/js/2.78db974e.chunk.js.map",
+    "static/js/2.83e7fcc1.chunk.js": "/tse_python/static/js/2.83e7fcc1.chunk.js",
+    "static/js/2.83e7fcc1.chunk.js.map": "/tse_python/static/js/2.83e7fcc1.chunk.js.map",
     "index.html": "/tse_python/index.html",
-    "precache-manifest.68595c9c5800fcc68c9f6dcf187e140d.js": "/tse_python/precache-manifest.68595c9c5800fcc68c9f6dcf187e140d.js",
+    "precache-manifest.14bd516e22ae5349a19b3662445018a5.js": "/tse_python/precache-manifest.14bd516e22ae5349a19b3662445018a5.js",
     "service-worker.js": "/tse_python/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/tse_python/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.78db974e.chunk.js.LICENSE.txt": "/tse_python/static/js/2.78db974e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/tse_python/static/media/logo.5d5d9eef.svg"
+    "static/js/2.83e7fcc1.chunk.js.LICENSE.txt": "/tse_python/static/js/2.83e7fcc1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8196a12b.js",
-    "static/js/2.78db974e.chunk.js",
+    "static/js/2.83e7fcc1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a4dcfccb.chunk.js"
+    "static/js/main.f73882b7.chunk.js"
   ]
 }
